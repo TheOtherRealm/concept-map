@@ -1,0 +1,27 @@
+{
+  "name": "concept-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheOtherRealm/concept-map.git"
+  },
+  "keywords": [
+    "Concept",
+    "Map",
+    "Sociocracy"
+  ],
+  "author": "Aaron E-J",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/TheOtherRealm/concept-map/issues"
+  },
+  "homepage": "https://github.com/TheOtherRealm/concept-map#readme",
+  "dependencies": {
+    "cytoscape": "^3.11.0"
+  }
+}
