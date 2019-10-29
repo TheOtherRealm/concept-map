@@ -4,9 +4,6 @@ document.addEventListener('DOMContentLoaded', function () {
 		numOfGroups = 50;
 	$("#cy").css('width', w);
 	$("#cy").css('height', h);
-	var nw = ['100px', '200px', '50px'];
-	var iter = 0;
-	var cy = [];
 	var bufferF = 1000000;
 	function rand(n) { return Math.random() * n; };
 	function arrayONumbers(q, rang) {
@@ -33,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function () {
 			var n = {
 				group: 'nodes',
 				data: { // element data 
-					id: 'n'+id,
+					id: 'n' + id,
 					money: m,
 					width: m * .0005,
 					height: m * .0005,
@@ -42,6 +39,7 @@ document.addEventListener('DOMContentLoaded', function () {
 					x: 100,
 					y: 100,
 				},
+				type: "bezier",
 				selected: false, // whether the element is selected 
 				selectable: true, // whether the selection state is mutable 
 				locked: false, // when locked a node's position is immutable 
@@ -51,16 +49,27 @@ document.addEventListener('DOMContentLoaded', function () {
 			return n;
 		}
 		function jsonEdge(id) {
-			var e = {
+			var eIn = {
 				group: 'edges',
 				data: {
-					id: 'e'+id,
+					id: 'eIn' + id,
 					source: 'nbuffer', // the source node id (edge comes from this node)
-					target: 'n'+id
+					target: 'n' + id,
+					in:true
 				},
-				pannable: true // whether dragging on the edge causes panning
+				pannable: true
 			}
-			return e;
+			var eOut = {
+				group: 'edges',
+				data: {
+					id: 'eOut' + id,
+					source: 'n' + id, // the source node id (edge comes from this node)
+					target: 'nbuffer',
+					out:true
+				},
+				pannable: true
+			}
+			return [eIn,eOut];
 		}
 		var cD = [];
 		var pos = placement(nids);
@@ -70,14 +79,15 @@ document.addEventListener('DOMContentLoaded', function () {
 			cD[i].position.y = pos[i].y;
 		}
 		for (var i = 0; i < nids; i++) {
-			cD.push(jsonEdge(i));
+			let jE=jsonEdge(i);
+			cD.push(jE[0]);
+			cD.push(jE[1]);
 		}
 		var nOfObj = cD.push(jsonNode('buffer'));
-		cD[nOfObj-1].position.x = 0;
-		cD[nOfObj-1].position.y = 0;
-		cD[nOfObj-1].data.width=200;
-		cD[nOfObj-1].data.height=200;
-		console.log(JSON.stringify(cD))
+		cD[nOfObj - 1].position.x = 0;
+		cD[nOfObj - 1].position.y = 0;
+		cD[nOfObj - 1].data.width = 200;
+		cD[nOfObj - 1].data.height = 200;
 		resolve(cD);
 	});
 	fakeData
@@ -102,36 +112,25 @@ document.addEventListener('DOMContentLoaded', function () {
 					.css({
 						'height': 'data(height)'
 					})
-					.selector('edge[width]')
+					.selector('edge')
 					.css({
-						'width': '1px'
+						"curve-style": "bezier",
+						'width': '1px',
+						"control-point-step-size": 10
 					})
-
+					.selector('edge[out]')
+					.css({
+						'width':'2.5px',
+						'line-color':'red',
+						"target-arrow-shape": "triangle"
+					})
+					.selector('edge[in]')
+					.css({
+						'width':'2.5px',
+						'line-color':'blue',
+						"target-arrow-shape": "triangle"
+					})
 			});
 			return data;
 		})
-	// .then(function (data) {
-	// 	cy.add( // flat array of nodes and edges
-	// 		{
-	// 			group: 'nodes', // 'nodes' for a node, 'edges' for an edge
-	// 			// NB the group field can be automatically inferred for you but specifying it
-	// 			// gives you nice debug messages if you mis-init elements
-	// 			data: { // element data (put json serialisable dev data here)
-	// 				id: 'buffer', // mandatory (string) id for each element, assigned automatically on undefined
-	// 				width: bufferF * 0.000001,
-	// 				height: bufferF * 0.000001,
-	// 			},
-	// 			position: { // the model position of the node (optional on init, mandatory after)
-	// 				x: w / 2,
-	// 				y: h / 2,
-	// 			},
-	// 			selected: false, // whether the element is selected (default false)
-	// 			selectable: true, // whether the selection state is mutable (default true)
-	// 			locked: false, // when locked a node's position is immutable (default false)
-	// 			grabbable: true, // whether the node can be grabbed and moved by the user
-	// 			pannable: false, // whether dragging the node causes panning instead of grabbing
-	// 			classes: ['foo', 'bar'] // an array (or a space separated string) of class names that the element has
-	// 		}
-	// 	)
-	// })
 });
