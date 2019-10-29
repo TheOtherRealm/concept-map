@@ -75,9 +75,8 @@ document.addEventListener('DOMContentLoaded', function () {
 		var nOfObj = cD.push(jsonNode('buffer'));
 		cD[nOfObj-1].position.x = 0;
 		cD[nOfObj-1].position.y = 0;
-		cD[nOfObj-1].data.money=1000000;
-		cD[nOfObj-1].data.width=1000000;
-		cD[nOfObj-1].data.height=1000000;
+		cD[nOfObj-1].data.width=200;
+		cD[nOfObj-1].data.height=200;
 		console.log(JSON.stringify(cD))
 		resolve(cD);
 	});
