@@ -2,1500 +2,721 @@
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916ecd7eb7dfc6b50e21",
-			"width": 22
+			"id": 0,
+			"money": 31857.473825287176,
+			"width": 15.928736912643588,
+			"height": 15.928736912643588
 		},
 		"position": {
-			"x": 1435,
-			"y": 605
+			"x": 300,
+			"y": 0
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916ece0d7cb1d665b4c0",
-			"source": "buffer",
-			"target": "n5db4916e7b5e8f5078c7c836"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916ebf7e7bf3780efbc8",
-			"width": 26
+			"id": 1,
+			"money": 98347.59289934162,
+			"width": 49.17379644967081,
+			"height": 49.17379644967081
 		},
 		"position": {
-			"x": 1428,
-			"y": 582
+			"x": 296.30650217854134,
+			"y": 46.93033951206926
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916ebdc9ff2bc8fa07b2",
-			"source": "buffer",
-			"target": "n5db4916ecb89e773855e9c14"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e2fb09b09d147944d",
-			"width": 24
+			"id": 2,
+			"money": 7472.353262099529,
+			"width": 3.736176631049765,
+			"height": 3.736176631049765
 		},
 		"position": {
-			"x": 619,
-			"y": 653
+			"x": 285.31695488854604,
+			"y": 92.70509831248422
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e08cf57ac3e56f80e",
-			"source": "buffer",
-			"target": "n5db4916e10c36d39364eaf66"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e8fc2393eee1cc831",
-			"width": 28
+			"id": 3,
+			"money": 26283.914764766992,
+			"width": 13.141957382383497,
+			"height": 13.141957382383497
 		},
 		"position": {
-			"x": 1186,
-			"y": 694
+			"x": 267.3019572565104,
+			"y": 136.19714992186402
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916ebf2c46623515cb6b",
-			"source": "buffer",
-			"target": "n5db4916e92bf8904cc0bb81f"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e558aa437738f8a10",
-			"width": 35
+			"id": 4,
+			"money": 61071.620493995484,
+			"width": 30.53581024699774,
+			"height": 30.53581024699774
 		},
 		"position": {
-			"x": 1338,
-			"y": 470
+			"x": 242.70509831248424,
+			"y": 176.33557568774194
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916ef8234c8f36bd1fd7",
-			"source": "buffer",
-			"target": "n5db4916eacf424f1d6bf8208"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e4a63fdc7374ca340",
-			"width": 25
+			"id": 5,
+			"money": 48808.54565308198,
+			"width": 24.40427282654099,
+			"height": 24.40427282654099
 		},
 		"position": {
-			"x": 1022,
-			"y": 81
+			"x": 212.13203435596427,
+			"y": 212.13203435596427
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e4f9482470cda5fa8",
-			"source": "buffer",
-			"target": "n5db4916e3e17634196c1d64d"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916ed634627a4c47d182",
-			"width": 31
+			"id": 6,
+			"money": 2519.4868501951073,
+			"width": 1.2597434250975537,
+			"height": 1.2597434250975537
 		},
 		"position": {
-			"x": 1431,
-			"y": 685
+			"x": 176.33557568774194,
+			"y": 242.70509831248424
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e1a8fad6e25b0be68",
-			"source": "buffer",
-			"target": "n5db4916ea8e127712a39467f"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916ee90b23d490acc1f1",
-			"width": 30
+			"id": 7,
+			"money": 84771.3438033704,
+			"width": 42.3856719016852,
+			"height": 42.3856719016852
 		},
 		"position": {
-			"x": 555,
-			"y": 332
+			"x": 136.19714992186405,
+			"y": 267.3019572565103
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e2ad21487c34867b6",
-			"source": "buffer",
-			"target": "n5db4916e61fcceebd6235482"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e7affe0655f9660b8",
-			"width": 29
+			"id": 8,
+			"money": 69154.76860342332,
+			"width": 34.57738430171166,
+			"height": 34.57738430171166
 		},
 		"position": {
-			"x": 73,
-			"y": 452
+			"x": 92.70509831248424,
+			"y": 285.31695488854604
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e1bfdbcf3201f8f29",
-			"source": "buffer",
-			"target": "n5db4916e9adafb39c7223087"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916ecb2c17846ecd24ae",
-			"width": 40
+			"id": 9,
+			"money": 74919.59877148457,
+			"width": 37.459799385742286,
+			"height": 37.459799385742286
 		},
 		"position": {
-			"x": 1182,
-			"y": 498
+			"x": 46.930339512069274,
+			"y": 296.30650217854134
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916eb35d4928430e0bc9",
-			"source": "buffer",
-			"target": "n5db4916e86222e275cf0814c"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e38e3e3674c7a49d9",
-			"width": 38
+			"id": 10,
+			"money": 58949.24332733008,
+			"width": 29.47462166366504,
+			"height": 29.47462166366504
 		},
 		"position": {
-			"x": 1289,
-			"y": 236
+			"x": 1.8369701987210297e-14,
+			"y": 300
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e37388dace719502c",
-			"source": "buffer",
-			"target": "n5db4916e7d977ec9528a6328"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e50aa723a7c14af0e",
-			"width": 22
+			"id": 11,
+			"money": 17701.050391218687,
+			"width": 8.850525195609343,
+			"height": 8.850525195609343
 		},
 		"position": {
-			"x": 187,
-			"y": 216
+			"x": -46.930339512069175,
+			"y": 296.30650217854134
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e99960447c6210dc9",
-			"source": "buffer",
-			"target": "n5db4916ec625dfbf231b46ff"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e27c9fa4f0870c43d",
-			"width": 39
+			"id": 12,
+			"money": 76089.33907215051,
+			"width": 38.044669536075254,
+			"height": 38.044669536075254
 		},
 		"position": {
-			"x": 548,
-			"y": 499
+			"x": -92.7050983124842,
+			"y": 285.3169548885461
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e94e1539b7f3349ce",
-			"source": "buffer",
-			"target": "n5db4916e69f51c5699550707"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916ec0fe3bbcd05e090b",
-			"width": 30
+			"id": 13,
+			"money": 31376.22848152044,
+			"width": 15.688114240760221,
+			"height": 15.688114240760221
 		},
 		"position": {
-			"x": 1212,
-			"y": 699
+			"x": -136.19714992186402,
+			"y": 267.3019572565104
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916ef514b13717000950",
-			"source": "buffer",
-			"target": "n5db4916eef0adad434ed33a3"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e59f848bdbd60c32a",
-			"width": 28
+			"id": 14,
+			"money": 66577.08401710838,
+			"width": 33.288542008554195,
+			"height": 33.288542008554195
 		},
 		"position": {
-			"x": 1175,
-			"y": 769
+			"x": -176.3355756877419,
+			"y": 242.70509831248424
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916eba3171e8ee7f3256",
-			"source": "buffer",
-			"target": "n5db4916ed650212b409ec8e3"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916ee5c7873d8fc67087",
-			"width": 30
+			"id": 15,
+			"money": 15816.12018559827,
+			"width": 7.908060092799135,
+			"height": 7.908060092799135
 		},
 		"position": {
-			"x": 1251,
-			"y": 286
+			"x": -212.13203435596424,
+			"y": 212.13203435596427
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e6151a5703a3246b9",
-			"source": "buffer",
-			"target": "n5db4916e91452b6fc8e55ce4"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e975fb52b94857532",
-			"width": 24
+			"id": 16,
+			"money": 9272.261420833283,
+			"width": 4.636130710416642,
+			"height": 4.636130710416642
 		},
 		"position": {
-			"x": 1549,
-			"y": 401
+			"x": -242.7050983124842,
+			"y": 176.33557568774197
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916ef49f242aaeb88acb",
-			"source": "buffer",
-			"target": "n5db4916e9f17e06cf0ec8e6e"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e874ee12ef55ca723",
-			"width": 36
+			"id": 17,
+			"money": 36313.029953138175,
+			"width": 18.15651497656909,
+			"height": 18.15651497656909
 		},
 		"position": {
-			"x": 1091,
-			"y": 210
+			"x": -267.3019572565103,
+			"y": 136.19714992186405
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e750147472b624ec9",
-			"source": "buffer",
-			"target": "n5db4916ee4acb3de4ff6171a"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e7c31dcff4b7ee3f9",
-			"width": 33
+			"id": 18,
+			"money": 35646.47585577311,
+			"width": 17.823237927886556,
+			"height": 17.823237927886556
 		},
 		"position": {
-			"x": 407,
-			"y": 176
+			"x": -285.31695488854604,
+			"y": 92.70509831248425
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e5782257ade4b3a36",
-			"source": "buffer",
-			"target": "n5db4916e4fa5aaf49ad2ef0c"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916eafc46c7de86a149a",
-			"width": 28
+			"id": 19,
+			"money": 23026.7527781577,
+			"width": 11.51337638907885,
+			"height": 11.51337638907885
 		},
 		"position": {
-			"x": 688,
-			"y": 508
+			"x": -296.3065021785413,
+			"y": 46.930339512069295
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916ef64a76f85d033e26",
-			"source": "buffer",
-			"target": "n5db4916ebfde2a5fffcf12ac"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916ed4d4fa0843745d79",
-			"width": 24
+			"id": 20,
+			"money": 74768.36633659688,
+			"width": 37.38418316829844,
+			"height": 37.38418316829844
 		},
 		"position": {
-			"x": 1146,
-			"y": 69
+			"x": -300,
+			"y": 3.6739403974420595e-14
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e22e2f2534255f510",
-			"source": "buffer",
-			"target": "n5db4916e352848866c8d2449"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e697e76406ae8df90",
-			"width": 22
+			"id": 21,
+			"money": 49149.31918510069,
+			"width": 24.574659592550347,
+			"height": 24.574659592550347
 		},
 		"position": {
-			"x": 46,
-			"y": 197
+			"x": -296.30650217854134,
+			"y": -46.93033951206922
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916ef007318dabc921f1",
-			"source": "buffer",
-			"target": "n5db4916e19ba8adf4a8d1af1"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e65a5a1616c7a9eb2",
-			"width": 22
+			"id": 22,
+			"money": 58646.25567757005,
+			"width": 29.323127838785027,
+			"height": 29.323127838785027
 		},
 		"position": {
-			"x": 909,
-			"y": 764
+			"x": -285.31695488854615,
+			"y": -92.70509831248407
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e5d153f70e13bc10a",
-			"source": "buffer",
-			"target": "n5db4916e694814eb4c4cc5b2"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e761fad002fb66835",
-			"width": 21
+			"id": 23,
+			"money": 31913.845521201332,
+			"width": 15.956922760600666,
+			"height": 15.956922760600666
 		},
 		"position": {
-			"x": 1135,
-			"y": 125
+			"x": -267.3019572565104,
+			"y": -136.197149921864
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e5c94306e69067d53",
-			"source": "buffer",
-			"target": "n5db4916e0266ef6bee382b0f"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e556e31d644d3ef53",
-			"width": 27
+			"id": 24,
+			"money": 23024.24130330082,
+			"width": 11.51212065165041,
+			"height": 11.51212065165041
 		},
 		"position": {
-			"x": 1313,
-			"y": 93
+			"x": -242.70509831248424,
+			"y": -176.3355756877419
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e48eca6308ffbfb1d",
-			"source": "buffer",
-			"target": "n5db4916e27c50e27a389dcb4"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e1020eda2d1ee15be",
-			"width": 34
+			"id": 25,
+			"money": 6153.369392209329,
+			"width": 3.0766846961046643,
+			"height": 3.0766846961046643
 		},
 		"position": {
-			"x": 1292,
-			"y": 552
+			"x": -212.1320343559643,
+			"y": -212.13203435596424
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916eca162462deb00cf0",
-			"source": "buffer",
-			"target": "n5db4916ece2f5280ed723af6"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916ea91ec74f4f70084d",
-			"width": 23
+			"id": 26,
+			"money": 11322.207775335635,
+			"width": 5.661103887667818,
+			"height": 5.661103887667818
 		},
 		"position": {
-			"x": 924,
-			"y": 514
+			"x": -176.33557568774197,
+			"y": -242.7050983124842
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e4e2e220e1fba0c19",
-			"source": "buffer",
-			"target": "n5db4916e3606eab15ab70f58"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e6b97c391c7dc9c09",
-			"width": 40
+			"id": 27,
+			"money": 1840.683623693895,
+			"width": 0.9203418118469475,
+			"height": 0.9203418118469475
 		},
 		"position": {
-			"x": 341,
-			"y": 280
+			"x": -136.19714992186408,
+			"y": -267.3019572565103
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e1a419fdf75c08257",
-			"source": "buffer",
-			"target": "n5db4916efb493b8076aaf895"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916ef4f1f78918e7e15a",
-			"width": 37
+			"id": 28,
+			"money": 27730.921896413107,
+			"width": 13.865460948206554,
+			"height": 13.865460948206554
 		},
 		"position": {
-			"x": 1360,
-			"y": 624
+			"x": -92.70509831248427,
+			"y": -285.31695488854604
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916eda1473c0364f456a",
-			"source": "buffer",
-			"target": "n5db4916e40bb35ed0f2079f6"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e4f5ac6963a9e2ec5",
-			"width": 32
+			"id": 29,
+			"money": 1682.6613863883954,
+			"width": 0.8413306931941977,
+			"height": 0.8413306931941977
 		},
 		"position": {
-			"x": 1527,
-			"y": 544
+			"x": -46.93033951206931,
+			"y": -296.3065021785413
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e5e063735118379eb",
-			"source": "buffer",
-			"target": "n5db4916e108ca8510183522e"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e4155b0cc6c3ddf8e",
-			"width": 23
+			"id": 30,
+			"money": 36716.73515421169,
+			"width": 18.358367577105845,
+			"height": 18.358367577105845
 		},
 		"position": {
-			"x": 923,
-			"y": 768
+			"x": -5.510910596163089e-14,
+			"y": -300
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e585174bd55698d68",
-			"source": "buffer",
-			"target": "n5db4916eb5eb042a3bd90e56"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e2d92fa4b4e1d0e86",
-			"width": 26
+			"id": 31,
+			"money": 24670.137163467585,
+			"width": 12.335068581733793,
+			"height": 12.335068581733793
 		},
 		"position": {
-			"x": 1417,
-			"y": 474
+			"x": 46.9303395120692,
+			"y": -296.30650217854134
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e1db175d86153ae03",
-			"source": "buffer",
-			"target": "n5db4916e6965253157b58bf1"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e0ba50b5de2e966e8",
-			"width": 33
+			"id": 32,
+			"money": 89301.10191987107,
+			"width": 44.650550959935536,
+			"height": 44.650550959935536
 		},
 		"position": {
-			"x": 1178,
-			"y": 599
+			"x": 92.70509831248417,
+			"y": -285.3169548885461
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916ebd1e60e47d9a3174",
-			"source": "buffer",
-			"target": "n5db4916e6e6cde574fce411f"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916ebc8008b020d4581c",
-			"width": 24
+			"id": 33,
+			"money": 74919.61562535963,
+			"width": 37.45980781267981,
+			"height": 37.45980781267981
 		},
 		"position": {
-			"x": 579,
-			"y": 686
+			"x": 136.197149921864,
+			"y": -267.3019572565104
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e7859d81b44f56ec2",
-			"source": "buffer",
-			"target": "n5db4916eff286d364b7839d7"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916eced1412eb1b3d938",
-			"width": 22
+			"id": 34,
+			"money": 96358.339824708,
+			"width": 48.179169912354006,
+			"height": 48.179169912354006
 		},
 		"position": {
-			"x": 504,
-			"y": 599
+			"x": 176.33557568774188,
+			"y": -242.70509831248427
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e2cdf35b1c6d33c90",
-			"source": "buffer",
-			"target": "n5db4916e41bc35ff2c48ddd6"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916ee101780cd6041e70",
-			"width": 39
+			"id": 35,
+			"money": 34189.179020353076,
+			"width": 17.09458951017654,
+			"height": 17.09458951017654
 		},
 		"position": {
-			"x": 1457,
-			"y": 297
+			"x": 212.1320343559642,
+			"y": -212.1320343559643
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916ea77e5139d8880252",
-			"source": "buffer",
-			"target": "n5db4916e078689ded685fe1a"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916e7c3a700cfafb05b1",
-			"width": 39
+			"id": 36,
+			"money": 28418.51204167878,
+			"width": 14.20925602083939,
+			"height": 14.20925602083939
 		},
 		"position": {
-			"x": 668,
-			"y": 728
+			"x": 242.7050983124842,
+			"y": -176.335575687742
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916ec8efd9211aca38e3",
-			"source": "buffer",
-			"target": "n5db4916ef63190429dbc5d03"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916ea45fbe6fd4f2bfaa",
-			"width": 26
+			"id": 37,
+			"money": 79456.97452093172,
+			"width": 39.72848726046586,
+			"height": 39.72848726046586
 		},
 		"position": {
-			"x": 808,
-			"y": 741
+			"x": 267.3019572565103,
+			"y": -136.19714992186408
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e66aa1ed43b14ab6e",
-			"source": "buffer",
-			"target": "n5db4916e37cc2220cb162081"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916eb35a8b370fd2bb04",
-			"width": 37
+			"id": 38,
+			"money": 94308.33158282218,
+			"width": 47.15416579141109,
+			"height": 47.15416579141109
 		},
 		"position": {
-			"x": 910,
-			"y": 351
+			"x": 285.31695488854604,
+			"y": -92.7050983124843
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e432b926e192208f7",
-			"source": "buffer",
-			"target": "n5db4916e73f3272db513d816"
-		},
-		"pannable": true
+		"pannable": false
 	},
 	{
 		"group": "nodes",
 		"data": {
-			"id": "n5db4916eded9de24875523d4",
-			"width": 27
+			"id": 39,
+			"money": 6690.966102832796,
+			"width": 3.3454830514163985,
+			"height": 3.3454830514163985
 		},
 		"position": {
-			"x": 491,
-			"y": 504
+			"x": 296.3065021785413,
+			"y": -46.930339512069324
 		},
 		"selected": false,
 		"selectable": true,
 		"locked": false,
 		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916eb29270e894310328",
-			"source": "buffer",
-			"target": "n5db4916e8cc70acdb529f65f"
-		},
-		"pannable": true
-	},
-	{
-		"group": "nodes",
-		"data": {
-			"id": "n5db4916eab7610b2822fafbd",
-			"width": 37
-		},
-		"position": {
-			"x": 782,
-			"y": 572
-		},
-		"selected": false,
-		"selectable": true,
-		"locked": false,
-		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e5f2060e62d63dcec",
-			"source": "buffer",
-			"target": "n5db4916eced20f1ab4e974bf"
-		},
-		"pannable": true
-	},
-	{
-		"group": "nodes",
-		"data": {
-			"id": "n5db4916ed06fa2250433412d",
-			"width": 22
-		},
-		"position": {
-			"x": 755,
-			"y": 106
-		},
-		"selected": false,
-		"selectable": true,
-		"locked": false,
-		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e8fbad8e816edab1d",
-			"source": "buffer",
-			"target": "n5db4916ea9d6768d174c198b"
-		},
-		"pannable": true
-	},
-	{
-		"group": "nodes",
-		"data": {
-			"id": "n5db4916e4ae1e8779e7ec6ad",
-			"width": 30
-		},
-		"position": {
-			"x": 1183,
-			"y": 519
-		},
-		"selected": false,
-		"selectable": true,
-		"locked": false,
-		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e6ea6ba3ea09ee540",
-			"source": "buffer",
-			"target": "n5db4916e6a3a2fa251124101"
-		},
-		"pannable": true
-	},
-	{
-		"group": "nodes",
-		"data": {
-			"id": "n5db4916eb76b31eb69b356f8",
-			"width": 29
-		},
-		"position": {
-			"x": 585,
-			"y": 707
-		},
-		"selected": false,
-		"selectable": true,
-		"locked": false,
-		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916ee6673c9b2937a0de",
-			"source": "buffer",
-			"target": "n5db4916ec065df5d9104c776"
-		},
-		"pannable": true
-	},
-	{
-		"group": "nodes",
-		"data": {
-			"id": "n5db4916e1c76cbf6add6f42c",
-			"width": 28
-		},
-		"position": {
-			"x": 796,
-			"y": 505
-		},
-		"selected": false,
-		"selectable": true,
-		"locked": false,
-		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e050663a09c6d341d",
-			"source": "buffer",
-			"target": "n5db4916ed9314cdaa3e915b6"
-		},
-		"pannable": true
-	},
-	{
-		"group": "nodes",
-		"data": {
-			"id": "n5db4916e1eb3b6df4af22ae0",
-			"width": 39
-		},
-		"position": {
-			"x": 682,
-			"y": 707
-		},
-		"selected": false,
-		"selectable": true,
-		"locked": false,
-		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e6d4841bd29337ba1",
-			"source": "buffer",
-			"target": "n5db4916e70e1e1af4e6c1e48"
-		},
-		"pannable": true
-	},
-	{
-		"group": "nodes",
-		"data": {
-			"id": "n5db4916e51decadc2e4b9ca7",
-			"width": 30
-		},
-		"position": {
-			"x": 235,
-			"y": 581
-		},
-		"selected": false,
-		"selectable": true,
-		"locked": false,
-		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e66943f3f8df6d1f5",
-			"source": "buffer",
-			"target": "n5db4916e5a97d7cf486cd355"
-		},
-		"pannable": true
-	},
-	{
-		"group": "nodes",
-		"data": {
-			"id": "n5db4916ee1d96dee0358ffc4",
-			"width": 38
-		},
-		"position": {
-			"x": 869,
-			"y": 444
-		},
-		"selected": false,
-		"selectable": true,
-		"locked": false,
-		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e05c3c8453ca2adf8",
-			"source": "buffer",
-			"target": "n5db4916e4f27551b8346d003"
-		},
-		"pannable": true
-	},
-	{
-		"group": "nodes",
-		"data": {
-			"id": "n5db4916e915925c548c093a9",
-			"width": 26
-		},
-		"position": {
-			"x": 23,
-			"y": 211
-		},
-		"selected": false,
-		"selectable": true,
-		"locked": false,
-		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e75e62e24f3617a49",
-			"source": "buffer",
-			"target": "n5db4916ebee34932a132d7cb"
-		},
-		"pannable": true
-	},
-	{
-		"group": "nodes",
-		"data": {
-			"id": "n5db4916eeb2b5b7aac145c2e",
-			"width": 32
-		},
-		"position": {
-			"x": 134,
-			"y": 772
-		},
-		"selected": false,
-		"selectable": true,
-		"locked": false,
-		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916e77ebca3fda6a1377",
-			"source": "buffer",
-			"target": "n5db4916e020a5015013eded0"
-		},
-		"pannable": true
-	},
-	{
-		"group": "nodes",
-		"data": {
-			"id": "n5db4916ef84a983eddcc0ceb",
-			"width": 22
-		},
-		"position": {
-			"x": 781,
-			"y": 351
-		},
-		"selected": false,
-		"selectable": true,
-		"locked": false,
-		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
-	},
-	{
-		"group": "edges",
-		"data": {
-			"id": "e5db4916ed5ccc2175e1daac2",
-			"source": "buffer",
-			"target": "n5db4916e529b056717c9e676"
-		},
-		"pannable": true
-	},
-	{
-		"group": "nodes",
-		"data": {
-			"id": "buffer",
-			"width": 29
-		},
-		"position": {
-			"x": 682,
-			"y": 282
-		},
-		"selected": false,
-		"selectable": true,
-		"locked": false,
-		"grabbable": true,
-		"pannable": false,
-		"classes": [
-			"foo",
-			"bar"
-		]
+		"pannable": false
 	}
 ]
