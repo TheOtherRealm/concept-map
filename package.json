@@ -23,6 +23,6 @@
   "homepage": "https://github.com/TheOtherRealm/concept-map#readme",
   "dependencies": {
     "cytoscape": "^3.11.0",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
